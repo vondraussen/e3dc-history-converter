@@ -1,0 +1,13 @@
+energy soc=90i,battery_feed_power=0i,battery_usage_power=68i,grid_feed_power=1i,grid_usage_power=1i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=53i 1599084000000000000
+energy soc=90i,battery_feed_power=0i,battery_usage_power=64i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=49i 1599084900000000000
+energy soc=89i,battery_feed_power=0i,battery_usage_power=60i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=46i 1599085800000000000
+energy soc=89i,battery_feed_power=0i,battery_usage_power=68i,grid_feed_power=1i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=53i 1599086700000000000
+energy soc=88i,battery_feed_power=0i,battery_usage_power=69i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=55i 1599087600000000000
+energy soc=88i,battery_feed_power=0i,battery_usage_power=70i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=55i 1599088500000000000
+energy soc=87i,battery_feed_power=0i,battery_usage_power=71i,grid_feed_power=1i,grid_usage_power=1i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=56i 1599089400000000000
+energy soc=86i,battery_feed_power=0i,battery_usage_power=57i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=43i 1599090300000000000
+energy soc=86i,battery_feed_power=0i,battery_usage_power=68i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=53i 1599091200000000000
+energy soc=85i,battery_feed_power=0i,battery_usage_power=81i,grid_feed_power=1i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=67i 1599092100000000000
+energy soc=85i,battery_feed_power=0i,battery_usage_power=60i,grid_feed_power=0i,grid_usage_power=0i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=46i 1599093000000000000
+energy soc=84i,battery_feed_power=0i,battery_usage_power=52i,grid_feed_power=1i,grid_usage_power=3i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=41i 1599093900000000000
+energy soc=83i,battery_feed_power=0i,battery_usage_power=79i,grid_feed_power=1i,grid_usage_power=1i,pv_power_tracker_1=0i,pv_power_tracker_2=0i,pv_power=0i,home_usage=64i 1599094800000000000
